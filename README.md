@@ -3,7 +3,7 @@
  📡 I think in Javascript but I have experience with other programming Languages
 
 ---
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
  
